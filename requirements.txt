@@ -1,8 +1,13 @@
+# Dashboard
 streamlit
-scikit-learn
-numpy
+
+# Tables and calculations
 pandas
+numpy
+
+# Charts
 matplotlib
 seaborn
-xgboost
-feature-engine
+
+# Prediction models and evaluation
+scikit-learn
